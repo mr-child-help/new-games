@@ -1,0 +1,1 @@
+You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request. Para obtener más información, consulta la sección "[Vincular una solicitud de extracción a un informe de problemas](/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)".
